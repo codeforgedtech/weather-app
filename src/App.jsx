@@ -14,7 +14,8 @@ const AppContainer = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Min höjd för att sträcka sig över hela skärmen */
+    min-height: 100vh;
+    min-width: 200vh;
     padding: 20px;
     background-color: #f0f4f8; /* Samma som globala stilar */
 `;
